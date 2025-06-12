@@ -1,3 +1,5 @@
+
+
 // Import the data to customize and insert them into page
 const fetchData = () => {
   fetch("customize.json")
@@ -23,11 +25,7 @@ const fetchData = () => {
       });
     });
 };
-window.addEventListener("click", function () {
-  const audio = new Audio("music/happy.mp3");
-  audio.loop = true;
-  audio.play();
-}, { once: true });
+
 
 
 // Animation Timeline
