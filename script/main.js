@@ -23,6 +23,12 @@ const fetchData = () => {
       });
     });
 };
+window.addEventListener("click", function () {
+  const audio = new Audio("music/happy.mp3");
+  audio.loop = true;
+  audio.play();
+}, { once: true });
+
 
 // Animation Timeline
 const animationTimeline = () => {
