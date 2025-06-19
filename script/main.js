@@ -308,3 +308,6 @@ const animationTimeline = () => {
 
 // Run fetch and animation in sequence
 fetchData();
+
+//https://github.com/faahim/happy-birthday
+//Mine4evrr!
