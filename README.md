@@ -1,10 +1,10 @@
 # mine4evrr
 website to wish a happy birthday to your friends or your wifey!
 
-# Demo Website
+## Demo Website
 https://yanis26x.github.io/mine4evrr/
 
-# how 2 use it ?!
+## how 2 use it ?!
 
 ### 📝 Change the text
 Open customize.json → replace the existing text with your own messages!
